@@ -6,11 +6,9 @@
     "netif_num":"1",
     "mac1": "0011XXXX"
     },
-    "synoinfo": {
-    "maxdisks" : "16",
-    "internalportcfg" : "0xf006",
-    "esataportcfg" : "0x0ff9"
-    },
-    "ramdisk_copy": {},
-    "extensions": []
+  "synoinfo": {
+    "supportsystemperature": "no",
+    "supportsystempwarning": "no"
+  },
+  "ramdisk_copy": {}
 }
